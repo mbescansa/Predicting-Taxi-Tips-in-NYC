@@ -18,4 +18,4 @@ This project is divided into two notebooks:
 </ol> 
 </body>
 </html>
-Additionally I have created an interactive <a href="https://public.tableau.com/app/profile/marta4014/viz/NYC-Taxitippingbehaviour/Dashboard1">Tableau dashboard</a> that you can navigate to explore some more insights about the data.
+Additionally I have created an interactive <a href="https://public.tableau.com/app/profile/marta4014/viz/NYC-Taxitippingbehaviour/Dashboard1">Tableau dashboard</a> that you can navigate to learn some more insights about the data.
