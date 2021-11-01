@@ -7,7 +7,7 @@ As a European ride-sharing services company aiming to launch our product in the 
 
 Since we have no previous experience in the city, we do not know its customers' behaviour. Moreover, we do not have historical data of our own to make tip predictions. As a solution, we have taken a dataset with 6 million yellow cab trips (August 2019) from the <a href="https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC Open Portal.</a></li> We will use this information as a first approach to generate insights about mobility in the city and to build a model able to recommend tip quantities to customers.
 
-![Taxi](./resources/taxi.jpg "Taxi")
+![Map](./resources/map.jpg "Map")
 <h2></h2>
 This project is divided in three notebooks:
 <br></br>
