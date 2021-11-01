@@ -1,4 +1,4 @@
-# NYC TAXIS - Predicting Taxi Tips in NYC
+# Predicting Taxi Tips in NYC
 
 As a European ride-sharing services company aiming to launch our product in the USA, we have chosen New York as our starting point. One of the upgrades we would like to build on our existing app to enter this market is a feature able to advise our customers on how much they should tip according to the characteristics of their trip. Our objectives are:
 
