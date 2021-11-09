@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title('NYC Taxi Tip Predictor')
 
-image = Image.open('taxi.jpg')
+image = Image.open(url = 'https://github.com/mbescansa/Predicting-Taxi-Tips-in-NYC/blob/main/resources/taxi.jpg')
 st.image(image)
 
 st.write('Welcome to our taxi tip predictor! Please enter information about your trip.')
