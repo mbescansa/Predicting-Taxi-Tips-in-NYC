@@ -5,7 +5,7 @@ import base64
 
 st.title('NYC Taxi Tip Predictor')
 
-st.image('/resources/taxi.jpg')
+st.image('resources/taxi.jpg')
 
 st.write('Welcome to our taxi tip predictor! Please enter information about your trip.')
 
