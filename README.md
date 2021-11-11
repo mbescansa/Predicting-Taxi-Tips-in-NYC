@@ -14,7 +14,7 @@ This project is divided into two notebooks:
 <br></br>
 <ol>
   <li>Data preparation, exploration and model development.</li>
-  <li>Quick demo to test the model. Please check the <a href="https://share.streamlit.io/mbescansa/predicting-taxi-tips-in-nyc/main/app_taxi_tip_predictor.py">web application</a> I developed.</li>
+  <li>Quick demo to test the model. Please check the <a href="https://share.streamlit.io/mbescansa/predicting-taxi-tips-in-nyc/main/app_taxi_tip_predictor.py">web application</a> I developed with it.</li>
 </ol> 
 </body>
 </html>
