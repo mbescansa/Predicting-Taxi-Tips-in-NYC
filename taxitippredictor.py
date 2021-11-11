@@ -74,8 +74,8 @@ r2 = r2_score(y_test,y_pred)
 
 
 passenger = st.number_input("How many are you?",step=1)
-distance = st.number_input("Where are you going? ",step=1)
-duration = st.number_input("How long do you want to take? ",step=1)
+distance = st.number_input("How far are you going (km)? ",step=1)
+duration = st.number_input("How long do you want to take (min)? ",step=1)
 
 numerical_client = pd.DataFrame({"passenger_count":passenger,
             "trip_distance" : distance,
