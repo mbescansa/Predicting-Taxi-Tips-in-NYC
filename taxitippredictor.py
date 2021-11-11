@@ -24,7 +24,7 @@ InteractiveShell.ast_node_interactivity = "all"
 # Format
 pd.options.display.float_format = '{:,.2f}'.format
 
-final_data = pd.read_csv('app_data.csv')
+final_data = pd.read_csv('resources/app_data.csv')
 final_data.drop(['fare_amount'],axis=1, inplace=True)
 
 y = final_data['tip_amount']
