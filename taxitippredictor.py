@@ -5,7 +5,7 @@ import base64
 
 st.title('NYC Taxi Tip Predictor')
 
-st.image('/app/Predicting-Taxi-Tips-in-NYC/blob/main/resources/taxi.jpg')
+st.image('taxi.jpg')
 
 st.write('Welcome to our taxi tip predictor! Please enter information about your trip.')
 
@@ -24,7 +24,7 @@ InteractiveShell.ast_node_interactivity = "all"
 # Format
 pd.options.display.float_format = '{:,.2f}'.format
 
-final_data = pd.read_csv('/app/Predicting-Taxi-Tips-in-NYC/blob/main/resources/app_data.csv')
+final_data = pd.read_csv('app_data.csv')
 final_data.drop(['fare_amount'],axis=1, inplace=True)
 
 y = final_data['tip_amount']
